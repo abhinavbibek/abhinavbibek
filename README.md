@@ -1,16 +1,95 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Bibek</h1>
 
-<!--
-**abhinavbibek/abhinavbibek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>I don't spend much time debating whether AI will become more capable.</em><br>
+  <strong>I assume it will.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  What interests me is what happens <em>after</em> that.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### The questions driving my work
+
+> How do we verify identity when software becomes autonomous?
+
+> How do we establish trust between non-human actors?
+
+> How do we know when an intelligent system deserves authority over real-world decisions?
+
+These have shaped my work across **AI security**, **continual learning**, **cryptographic trust**, and **secure AI infrastructure**.
+
+---
+
+### Questions I'm fascinated by
+
+- What replaces identity when most internet users are software?
+- How do we verify that an AI-generated action came from the model we think it did?
+- At what point does prompt injection become infrastructure compromise?
+- How should Zero Trust evolve when the workload itself is intelligent?
+
+---
+
+### On AI Security
+
+I don't think AI becomes secure because researchers ask for it.
+**It becomes secure once insecurity gets too expensive.**
+
+Every major technology follows the same loop:
+<p align="center">
+Innovation expands the attack surface
+<p align="center">
+↓
+<p align="center">
+Security lags behind
+<p align="center">
+↓
+<p align="center">
+Major failures occur
+<p align="center">
+↓
+<p align="center">
+The baseline rises
+<p align="center">
+↓
+<p align="center">
+(repeat)
+
+AI won't be different. The interesting question isn't *whether* AI becomes secure
+it's **what finally forces it to.**
+
+---
+
+### Things I currently believe
+
+- Intelligence is becoming infrastructure
+- Prompt injection is a security vulnerability, not merely an application bug
+- Most future cyberattacks will target AI **orchestration**, not models themselves
+- Identity gets harder once software becomes autonomous
+- The hardest AI security problems aren't model problems — they're **trust problems**
+- Verification will become more valuable than generation
+- Most security engineering will eventually become **AI supervising AI**
+
+---
+
+### Problems I want to solve
+
+- [ ] Can AI systems develop cryptographic reputation?
+- [ ] Can we mathematically prove agent provenance?
+- [ ] Can backdoors become impossible to remove?
+- [ ] What does Zero Trust look like when every workload is autonomous?
+- [ ] Can AI evaluate another AI's security better than humans?
+- [ ] How should organizations manage identity when employees become software?
+
+---
+
+### Currently reading up on
+
+| Topic | Topic |
+|---|---|
+| Mechanistic Interpretability | Trusted Execution |
+| MCP Security | Cryptographic Identity |
+| Agent Memory Systems | Adversarial Machine Learning |
+| Reasoning Models | Model Context Protocol |
