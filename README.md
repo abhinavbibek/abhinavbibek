@@ -13,7 +13,7 @@
 
 ### The questions driving my work
 
-> How do we verify identity when software becomes autonomous?
+> How should Zero Trust evolve when the workload itself is intelligent?
 
 > How do we establish trust between non-human actors?
 
@@ -23,19 +23,9 @@ These have shaped my work across **AI security**, **continual learning**, **cryp
 
 ---
 
-### Questions I'm fascinated by
-
-- What replaces identity when most internet users are software?
-- How do we verify that an AI-generated action came from the model we think it did?
-- At what point does prompt injection become infrastructure compromise?
-- How should Zero Trust evolve when the workload itself is intelligent?
-
----
-
 ### On AI Security
 
-I don't think AI becomes secure because researchers ask for it.
-**It becomes secure once insecurity gets too expensive.**
+**I think AI will become secure once insecurity gets too expensive.**
 
 Every major technology follows the same loop:
 <p align="center">
@@ -65,10 +55,9 @@ it's **what finally forces it to.**
 ### Things I currently believe
 
 - Intelligence is becoming infrastructure
-- Prompt injection is a security vulnerability, not merely an application bug
 - Most future cyberattacks will target AI **orchestration**, not models themselves
 - Identity gets harder once software becomes autonomous
-- The hardest AI security problems aren't model problems — they're **trust problems**
+- The hardest AI security problems aren't model problems - they're **trust problems**
 - Verification will become more valuable than generation
 - Most security engineering will eventually become **AI supervising AI**
 
