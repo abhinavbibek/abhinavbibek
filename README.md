@@ -63,6 +63,14 @@ it's **what finally forces it to.**
 
 ---
 
+### What I am building right now
+
+**An open-source, inference-only scanner for neural backdoors and sleeper agents in LLMs.**
+
+Standard post-training safety alignments consistently fail to remove deceptive behaviors once they are embedded in model weights. Instead of trying to brute-force unknown trigger words, I am building a tool that detects the internal behavioral anomalies of poisoned models computationally cheaply.
+
+---
+
 ### Problems I want to solve
 
 - [ ] Can AI systems develop cryptographic reputation?
