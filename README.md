@@ -23,31 +23,55 @@ These have shaped my work across **AI security**, **continual learning**, **cryp
 
 ---
 
+### Current research work
+
+I am currently working on two research directions around AI security and trust:
+
+| Work | Status | Repository |
+|---|---|---|
+| **Backdoors in Continual Learning** | Active research. Preparing the work for public release as paper milestones mature. | [abhinavbibek/backdoor-in-CL-paper](https://github.com/abhinavbibek/backdoor-in-CL-paper) |
+| **SleeperScan: Neural Backdoor and Sleeper Agent Detector** | Active project. Building an inference-only scanner for neural backdoors and sleeper-agent behavior in LLMs. | [abhinavbibek/SleeperScan-Neural-Backdoor-and-Sleeper-Agent-Detector](https://github.com/abhinavbibek/SleeperScan-Neural-Backdoor-and-Sleeper-Agent-Detector) |
+
+The repository links are included as canonical project locations.
+GitHub may show them as unavailable while experiments, drafts, and milestones are still being prepared for public release.
+
+---
+
 ### On AI Security
 
 **I think AI will become secure once insecurity gets too expensive.**
 
 Every major technology follows the same loop:
+
 <p align="center">
 Innovation expands the attack surface
+</p>
 <p align="center">
-↓
+&#8595;
+</p>
 <p align="center">
 Security lags behind
+</p>
 <p align="center">
-↓
+&#8595;
+</p>
 <p align="center">
 Major failures occur
+</p>
 <p align="center">
-↓
+&#8595;
+</p>
 <p align="center">
 The baseline rises
+</p>
 <p align="center">
-↓
+&#8595;
+</p>
 <p align="center">
 (repeat)
+</p>
 
-AI won't be different. The interesting question isn't *whether* AI becomes secure
+AI won't be different. The interesting question isn't *whether* AI becomes secure;
 it's **what finally forces it to.**
 
 ---
@@ -67,7 +91,8 @@ it's **what finally forces it to.**
 
 **An open-source, inference-only scanner for neural backdoors and sleeper agents in LLMs.**
 
-Standard post-training safety alignments consistently fail to remove deceptive behaviors once they are embedded in model weights. Instead of trying to brute-force unknown trigger words, I am building a tool that detects the internal behavioral anomalies of poisoned models computationally cheaply.
+Standard post-training safety alignments consistently fail to remove deceptive behaviors once they are embedded in model weights.
+Instead of trying to brute-force unknown trigger words, I am building a tool that detects internal behavioral anomalies in poisoned models at low computational cost.
 
 ---
 
