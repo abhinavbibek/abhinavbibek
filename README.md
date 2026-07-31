@@ -5,10 +5,6 @@
   <strong>I assume it will.</strong>
 </p>
 
-<p align="center">
-  What interests me is what happens <em>after</em> that.
-</p>
-
 ---
 
 ### The questions driving my work
