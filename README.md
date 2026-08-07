@@ -11,8 +11,6 @@
 
 > How do we know when an intelligent system deserves authority over real-world decisions?
 
-These have shaped my work across **AI security**, **continual learning**, **cryptographic trust**, and **secure AI infrastructure**.
-
 ---
 
 ### Current research work
