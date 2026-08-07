@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Bibek</h1>
 
-<p align="center">
-  <em>I don't spend much time debating whether AI will become more capable.</em><br>
-  <strong>I assume it will.</strong>
-</p>
 
 ---
 
