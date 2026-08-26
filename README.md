@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Bibek</h1>
 
 
----
-
 ### Questions driving my work
 
 > How should Zero Trust evolve when the workload itself is intelligent?
