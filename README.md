@@ -27,45 +27,6 @@ GitHub may show them as unavailable while experiments, drafts, and milestones ar
 
 ---
 
-### On AI Security
-
-**I think AI will become secure once insecurity gets too expensive.**
-
-Every major technology follows the same loop:
-
-<p align="center">
-Innovation expands the attack surface
-</p>
-<p align="center">
-&#8595;
-</p>
-<p align="center">
-Security lags behind
-</p>
-<p align="center">
-&#8595;
-</p>
-<p align="center">
-Major failures occur
-</p>
-<p align="center">
-&#8595;
-</p>
-<p align="center">
-The baseline rises
-</p>
-<p align="center">
-&#8595;
-</p>
-<p align="center">
-(repeat)
-</p>
-
-AI won't be different. The interesting question isn't *whether* AI becomes secure;
-it's **what finally forces it to.**
-
----
-
 ### Things I currently believe
 
 - Intelligence is becoming infrastructure
