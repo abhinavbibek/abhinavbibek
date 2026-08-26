@@ -1,16 +1,6 @@
 <h1 align="center">Hi, I'm Bibek</h1>
 
 
-### Questions driving my work
-
-> How should Zero Trust evolve when the workload itself is intelligent?
-
-> How do we establish trust between non-human actors?
-
-> How do we know when an intelligent system deserves authority over real-world decisions?
-
----
-
 ### Current research work
 
 I am currently working on two research directions around AI security and trust:
@@ -22,6 +12,15 @@ I am currently working on two research directions around AI security and trust:
 
 The repository links are included as canonical project locations.
 GitHub may show them as unavailable while experiments, drafts, and milestones are still being prepared for public release.
+
+---
+### Questions driving my work
+
+> How should Zero Trust evolve when the workload itself is intelligent?
+
+> How do we establish trust between non-human actors?
+
+> How do we know when an intelligent system deserves authority over real-world decisions?
 
 ---
 
